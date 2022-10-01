@@ -39,7 +39,7 @@
 
 # *Использование для проверки*
 
-1. 
+1. https://github.com/Romanenkoai/Final_work.git
 
 2. см. Diagram.drawio.png
 
