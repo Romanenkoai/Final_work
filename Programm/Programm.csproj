@@ -1,2 +1,10 @@
-// См . https://aka.ms/new-console-template для получения дополнительной информации
-Консоль.Строка записи ("Привет, мир!");
+<Project Sdk="Microsoft.NET.Sdk">
+
+ <Группа свойств>
+ <OutputType>Exe</OutputType>
+ <targetFramework>net6.0</targetFramework>
+ <ImplicitUsings>включить</ImplicitUsings>
+ <Nullable>включить</Nullable>
+ </PropertyGroup>
+
+</Project>
