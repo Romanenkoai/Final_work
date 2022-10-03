@@ -41,7 +41,7 @@
 
 1. https://github.com/Romanenkoai/Final_work.git
 
-2. см. Diagram.drawio.png
+2. см. Блок-схема.jpg
 
 3. Данный текст находится в Readme.md
 
