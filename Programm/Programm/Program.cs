@@ -1,2 +1,13 @@
-// См . https://aka.ms/new-console-template для получения дополнительной информации
-Консоль.Строка записи ("Привет, мир!");
+string [] startingArray = new string[] {"hello", "2", "world", ":-)"};
+string[] resultArray = new string [0];
+
+foreach (var item in startingArray)
+{
+    if (item.Length <= 3)
+    {
+    Array.Resize(ref resultArray, resultArray.Length + 1);
+    resultArray [resultArray.Length-1] = item;
+    }
+}
+
+Console.WriteLine($"[{String.Join("; ", resultArray)}]");
